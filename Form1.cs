@@ -1,5 +1,4 @@
-﻿using SL2_proyecto.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SL2_proyecto.Models;
 
 namespace SL2_proyecto
 {
