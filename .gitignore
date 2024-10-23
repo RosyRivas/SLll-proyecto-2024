@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SL2-proyecto/FileContentIndex/1fbaba8d-b922-4392-bcc8-3b7f99dc1781.vsidx
+/.vs/SL2-proyecto/FileContentIndex/5bab2994-2db1-437f-9178-76a9ff770d91.vsidx
+/.vs/SL2-proyecto/FileContentIndex/64e036cd-4618-44e2-92ec-dba7917fd048.vsidx
+/.vs/SLll-proyecto-2024/FileContentIndex/165f4e84-126f-4793-a5cc-acedb7449a2f.vsidx
+/.vs/SLll-proyecto-2024/FileContentIndex/a25082d2-88da-4415-b368-abfb30389c21.vsidx
+/.vs/SLll-proyecto-2024/FileContentIndex/f4213fcd-4f31-4e54-86dc-7574c72f17b7.vsidx
+/Controller/PersonaController.cs
+/.vs/SLll-proyecto-2024/v17
+/.vs/SLll-proyecto-2024/FileContentIndex
+/.vs/SL2-proyecto.csproj.dtbcache.json
