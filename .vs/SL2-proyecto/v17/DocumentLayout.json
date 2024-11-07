@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Rosa\\source\\repos\\Sll\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|c:\\users\\rosa\\source\\repos\\sll\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|c:\\users\\rosa\\source\\repos\\sll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|c:\\users\\rosa\\source\\repos\\sll\\models\\personadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:models\\personadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\Models\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:Models\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\SL2-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:SL2-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|c:\\users\\rosa\\source\\repos\\sll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\Models\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:Models\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|C:\\Users\\Rosa\\source\\repos\\Sll\\SL2-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11C41B4B-CDD8-4CD9-99C4-9883EF6E4FE7}|SL2-proyecto.csproj|solutionrelative:SL2-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +42,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T16:12:16.452Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-07T14:16:26.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:16:24.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:14:07.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Bookmark",
@@ -58,45 +109,30 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PersonaDataBase.cs",
               "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\Models\\PersonaDataBase.cs",
               "RelativeDocumentMoniker": "Models\\PersonaDataBase.cs",
               "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\Models\\PersonaDataBase.cs",
               "RelativeToolTip": "Models\\PersonaDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:46:53.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:11:54.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SL2-proyecto.csproj",
-              "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\SL2-proyecto.csproj",
-              "RelativeDocumentMoniker": "SL2-proyecto.csproj",
-              "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\SL2-proyecto.csproj",
-              "RelativeToolTip": "SL2-proyecto.csproj",
-              "ViewState": "AgIAACwAAAAAAAAAAAAvwD4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T16:09:03.74Z"
+              "WhenOpened": "2024-10-11T16:11:54.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,7 +144,24 @@
               "RelativeToolTip": "Models\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:46:43.412Z"
+              "WhenOpened": "2024-10-11T15:46:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SL2-proyecto.csproj",
+              "DocumentMoniker": "C:\\Users\\Rosa\\source\\repos\\Sll\\SL2-proyecto.csproj",
+              "RelativeDocumentMoniker": "SL2-proyecto.csproj",
+              "ToolTip": "C:\\Users\\Rosa\\source\\repos\\Sll\\SL2-proyecto.csproj",
+              "RelativeToolTip": "SL2-proyecto.csproj",
+              "ViewState": "AgIAACwAAAAAAAAAAAAvwD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T16:09:03.74Z"
             }
           ]
         }
